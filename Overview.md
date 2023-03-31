@@ -1,5 +1,5 @@
 # Description
-If you're here you probably have a general idea of what brainfuck is, Although if you don't, see the [wiki](https://en.wikipedia.org/wiki/Brainfuck) or read below.
+If you're here you probably have a general idea of what brainfuck is, Although if you don't, see the [wiki](https://en.wikipedia.org/wiki/Brainfuck).
 Regardless of your knowledge on brainfuck, I hope I can provide insight or information to further your understanding. Although, at the end of the day
 it's not that serious. This is an esolang so the goal is to present a mental challenge or have fun.
 
