@@ -57,7 +57,7 @@ The above code will return the number 4, as the result of 2+2. We can do somethi
 Cool, we can add and subtract. However, things get a little more complicated when we want to **Compare**. We'll need a couple of things before we're ready to
 compare numbers. One of these things is a condition.
 
-####Conditions
+#### Conditions
 
 With conditions, we can make something akin to an If Then statement by using loops in a clever way. Loops will only execute their code
 if the value of the current cell is greater than zero. So, We can make an If statement like so:
