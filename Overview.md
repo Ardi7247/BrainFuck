@@ -90,10 +90,10 @@ From there, a condition that preserves memory is easy. We just need to put it al
 ```
 + ;Set Cell 1 to the value of 1
 [>+>+<<-]>> ;Clone the current cell's value to the 2 cells ahead of it; Then move to the latter clone for usage in the program
-[-<<+>>] ;Add the current cell's value 2 cells to the left
+[-<<+>>] ;Moves the current cell's value 2 cells to the left
 < ;Move the 2D cursor to the 2nd Cell
 [[-]
->+++< ;Set cell 3 to 3
+>+++ ;Move to the 3rd cell 3 and increment the value by 3
 ]
 ```
 
