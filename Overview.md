@@ -20,7 +20,7 @@ it's not that serious. This is an esolang so the goal is to present a mental cha
 
 `]` Returns to the instruction after the matching '\[' symbol.
 
-#### These instructions are Turing complete, meaning it can simulate any Turing machine. Brainfuck will either halt, or continue forever.
+#### These instructions are Turing complete, meaning it can simulate any Turing machine. A Brainfuck program will either halt, or continue forever.
 
 ### So, what can you do with these instructions?
 
